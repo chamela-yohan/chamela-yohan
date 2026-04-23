@@ -32,6 +32,10 @@ Turning ideas into scalable software powered by data, automation, and machine le
 
 <p align="center">
 
+<a href="https://chamela-yohan.vercel.app/">
+<img src="https://img.shields.io/badge/Website-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/chamela-aththanayaka">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
